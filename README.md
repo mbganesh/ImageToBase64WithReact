@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Base64 - Compressor [Hit Here](https://github.com/mbganesh/WebCamInReact/blob/main/src/Components/Home.js)
+
 ## HomePage.js
 
 Hit to locate ImageToBase64  [Here](https://github.com/mbganesh/ImageToBase64WithReact/blob/master/src/componets/Home.js).
